@@ -21,19 +21,19 @@ Each game project includes the following information:
 
 | Game Name | Project Address | Original Project | One-Click Deploy |
 |-----------|----------------|------------------|-----------------|
-| p2ball | [Project](https://github.com/tomcomtang/p2ball) | [Original](https://github.com/channingbreeze/games/tree/master/p2ball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball) |
-| Plane war | [Project](https://github.com/tomcomtang/planewar) | [Original](https://github.com/channingbreeze/games/tree/master/planewar) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar) |
-| Attack on ball | [Project](https://github.com/tomcomtang/attackonball) | [Original](https://github.com/channingbreeze/games/tree/master/attackonball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball) |
-| Pet party | [Project](https://github.com/tomcomtang/petparty) | [Original](https://github.com/channingbreeze/games/tree/master/petparty) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty) |
-| Flappy bird | [Project](https://github.com/tomcomtang/flappybird3) | [Original](https://github.com/channingbreeze/games/tree/master/flappybird3) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/flappybird3) |
-| Jump one | [Project](https://github.com/tomcomtang/jumpone) | [Original](https://github.com/channingbreeze/games/tree/master/jumpone) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
-| Run robot | [Project](https://github.com/tomcomtang/runrobot) | [Original](https://github.com/channingbreeze/games/tree/master/runrobot) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
-| Rhythm | [Project](https://github.com/tomcomtang/rhythm) | [Original](https://github.com/channingbreeze/games/tree/master/rhythm) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
-| Circle the cat | [Project](https://github.com/tomcomtang/circle-the-cat) | [Original](https://github.com/channingbreeze/games/tree/master/shenjingmao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
-| Bike | [Project](https://github.com/tomcomtang/bike) | [Original](https://github.com/channingbreeze/games/tree/master/bike) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
-| Kupao | [Project](https://github.com/tomcomtang/kupao) | [Original](https://github.com/channingbreeze/games/tree/master/kupao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
-| Candy | [Project](https://github.com/tomcomtang/candy) | [Original](https://github.com/channingbreeze/games/tree/master/candy) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
-| Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/BKcore/HexGL) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| p2ball | [Project](https://github.com/tomcomtang/p2ball) | [Original](https://github.com/channingbreeze/games/tree/master/p2ball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball&source=tomchild) |
+| Plane war | [Project](https://github.com/tomcomtang/planewar) | [Original](https://github.com/channingbreeze/games/tree/master/planewar) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar&source=tomchild) |
+| Attack on ball | [Project](https://github.com/tomcomtang/attackonball) | [Original](https://github.com/channingbreeze/games/tree/master/attackonball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball&source=tomchild) |
+| Pet party | [Project](https://github.com/tomcomtang/petparty) | [Original](https://github.com/channingbreeze/games/tree/master/petparty) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty&source=tomchild) |
+| Flappy bird | [Project](https://github.com/tomcomtang/flappybird3) | [Original](https://github.com/channingbreeze/games/tree/master/flappybird3) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/flappybird3&source=tomchild) |
+| Jump one | [Project](https://github.com/tomcomtang/jumpone) | [Original](https://github.com/channingbreeze/games/tree/master/jumpone) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone&source=tomchild) |
+| Run robot | [Project](https://github.com/tomcomtang/runrobot) | [Original](https://github.com/channingbreeze/games/tree/master/runrobot) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot&source=tomchild) |
+| Rhythm | [Project](https://github.com/tomcomtang/rhythm) | [Original](https://github.com/channingbreeze/games/tree/master/rhythm) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm&source=tomchild) |
+| Circle the cat | [Project](https://github.com/tomcomtang/circle-the-cat) | [Original](https://github.com/channingbreeze/games/tree/master/shenjingmao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat&source=tomchild) |
+| Bike | [Project](https://github.com/tomcomtang/bike) | [Original](https://github.com/channingbreeze/games/tree/master/bike) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike&source=tomchild) |
+| Kupao | [Project](https://github.com/tomcomtang/kupao) | [Original](https://github.com/channingbreeze/games/tree/master/kupao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao&source=tomchild) |
+| Candy | [Project](https://github.com/tomcomtang/candy) | [Original](https://github.com/channingbreeze/games/tree/master/candy) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy&source=tomchild) |
+| Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/BKcore/HexGL) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl&source=tomchild) |
 | Super Mario | -- | [Original](https://github.com/pratishshr/mario-maker) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/pratishshr/mario-maker) |
 | Space Huggers | -- | [Original](https://github.com/killedbyapixel/spacehuggers) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/killedbyapixel/spacehuggers) |
 | Hexgl | -- | [Original](https://github.com/js13kgames/bounce-back) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
@@ -44,7 +44,7 @@ Each game project includes the following information:
 
 For more unblocked games, check out our [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
-Looking for website templates? Explore our [template gallery](https://edgeone.ai/pages/templates) for various website templates!
+Looking for website templates? Explore our [template gallery](https://edgeone.ai/pages/templates?source=tomchild) for various website templates!
 
 ## Quick Start
 
