@@ -44,7 +44,7 @@ Simply click the "Deploy" button to quickly deploy your favorite game to your ow
 | 2048 | -- | [Original](https://github.com/gabrielecirulli/2048) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/gabrielecirulli/2048&project-name=game-2048) |
 | Black Hole Square | -- | [Original](https://github.com/quinten/black-hole-square) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/quinten/black-hole-square&output-directory=./public&build-command=npm%20install) |
 | Snake | -- | [Original](https://github.com/rabiroshan/snake_game) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/rabiroshan/snake_game&output-directory=./docs&project-name=snake-game) |
-| Snake | -- | [Original](https://github.com/johnatas-henrique/fake-racer) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/johnatas-henrique/fake-racer&build-command=npm%20install) |
+| Fake Racer | -- | [Original](https://github.com/johnatas-henrique/fake-racer) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/johnatas-henrique/fake-racer&build-command=npm%20install) |
 
 For more unblocked games, check out our [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
