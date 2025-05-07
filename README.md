@@ -44,6 +44,8 @@ Each game project includes the following information:
 
 For more unblocked games, check out our [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
+Looking for website templates? Explore our [template gallery](https://edgeone.ai/pages/templates) for various website templates!
+
 ## Quick Start
 
 1. Choose your favorite game
