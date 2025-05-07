@@ -1,6 +1,6 @@
 # H5 Game Collection
 
-This is a carefully curated collection of H5 games that supports one-click deployment to personal domain sites. With simple configuration, you can easily run multiple interesting H5 games on your own website.
+This is a carefully curated collection of H5 games that supports one-click deployment to personal domain sites. Through this simple deployment process, you can create your own game pages and enjoy unblocked gaming experience without any dependencies.
 
 ## Features
 
@@ -16,6 +16,8 @@ Each game project includes the following information:
 - One-click deployment button
 - Project address
 - Original project address
+
+Simply click the "Deploy" button to quickly deploy your favorite game to your own domain.
 
 ### Game List
 
