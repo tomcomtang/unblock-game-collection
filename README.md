@@ -29,11 +29,11 @@ Each game project includes the following information:
 | Jump one | [Project](https://github.com/tomcomtang/jumpone) | [Original](https://github.com/channingbreeze/games/tree/master/jumpone) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
 | Run robot | [Project](https://github.com/tomcomtang/runrobot) | [Original](https://github.com/channingbreeze/games/tree/master/runrobot) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
 | Rhythm | [Project](https://github.com/tomcomtang/rhythm) | [Original](https://github.com/channingbreeze/games/tree/master/rhythm) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
-| Circle the cat | [Project](https://github.com/tomcomtang/circle-the-cat) | [Original](https://github.com/channingbreeze/games/tree/master/circle-the-cat) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
+| Circle the cat | [Project](https://github.com/tomcomtang/circle-the-cat) | [Original](https://github.com/channingbreeze/games/tree/master/shenjingmao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
 | Bike | [Project](https://github.com/tomcomtang/bike) | [Original](https://github.com/channingbreeze/games/tree/master/bike) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
 | Kupao | [Project](https://github.com/tomcomtang/kupao) | [Original](https://github.com/channingbreeze/games/tree/master/kupao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
 | Candy | [Project](https://github.com/tomcomtang/candy) | [Original](https://github.com/channingbreeze/games/tree/master/candy) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
-| Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/channingbreeze/games/tree/master/hexgl) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/BKcore/HexGL) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
 
 ## Quick Start
 
