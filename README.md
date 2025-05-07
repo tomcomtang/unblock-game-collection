@@ -34,6 +34,15 @@ Each game project includes the following information:
 | Kupao | [Project](https://github.com/tomcomtang/kupao) | [Original](https://github.com/channingbreeze/games/tree/master/kupao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
 | Candy | [Project](https://github.com/tomcomtang/candy) | [Original](https://github.com/channingbreeze/games/tree/master/candy) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
 | Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/BKcore/HexGL) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| Super Mario | -- | [Original](https://github.com/pratishshr/mario-maker) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/pratishshr/mario-maker) |
+| Space Huggers | -- | [Original](https://github.com/killedbyapixel/spacehuggers) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/killedbyapixel/spacehuggers) |
+| Hexgl | -- | [Original](https://github.com/js13kgames/bounce-back) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| Block Blast | -- | [Original](https://github.com/futzumi/block-blast) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/futzumi/block-blast) |
+| Sokoban | -- | [Original](https://github.com/alliballibaba/sokoban-level-generator) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/alliballibaba/sokoban-level-generator) |
+| 2048 | -- | [Original](https://github.com/gabrielecirulli/2048) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/gabrielecirulli/2048&project-name=game-2048) |
+| Black Hole Square | -- | [Original](https://github.com/quinten/black-hole-square) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/quinten/black-hole-square&output-directory=./public&build-command=npm%20install) |
+
+For more unblocked games, check out our [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
 ## Quick Start
 
