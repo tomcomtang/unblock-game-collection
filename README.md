@@ -22,18 +22,18 @@
 | 游戏名称 | 项目地址 | 原始项目地址 | 一键部署 |
 |---------|---------|------------|---------|
 | p2ball | [项目地址](https://github.com/tomcomtang/p2ball) | [原始项目](https://github.com/channingbreeze/games/tree/master/p2ball) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball) |
-| Plane war | [项目地址](https://github.com/tomcomtang/planewar) | [原始项目](https://github.com/channingbreeze/games/tree/master/planewar) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar) |
+| Plane war | [项目地址](https://github.com/tomcomtang/planewar) | [原始项目](https://github.com/channingbreeze/games/tree/master/planewar) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar) |
 | Plane war | [项目地址](https://github.com/tomcomtang/attackonball) | [原始项目](https://github.com/channingbreeze/games/tree/master/attackonball) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball) |
-| Plane war | [项目地址](https://github.com/tomcomtang/petparty) | [原始项目](https://github.com/channingbreeze/games/tree/master/petparty) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty) |
+| Plane war | [项目地址](https://github.com/tomcomtang/petparty) | [原始项目](https://github.com/channingbreeze/games/tree/master/petparty) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty) |
 | Plane war | [项目地址](https://github.com/tomcomtang/flappybird3) | [原始项目](https://github.com/channingbreeze/games/tree/master/flappybird3) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/flappybird3) |
-| Plane war | [项目地址](https://github.com/tomcomtang/jumpone) | [原始项目](https://github.com/channingbreeze/games/tree/master/jumpone) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
-| Plane war | [项目地址](https://github.com/tomcomtang/runrobot) | [原始项目](https://github.com/channingbreeze/games/tree/master/runrobot) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
-| Plane war | [项目地址](https://github.com/tomcomtang/rhythm) | [原始项目](https://github.com/channingbreeze/games/tree/master/rhythm) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
+| Plane war | [项目地址](https://github.com/tomcomtang/jumpone) | [原始项目](https://github.com/channingbreeze/games/tree/master/jumpone) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
+| Plane war | [项目地址](https://github.com/tomcomtang/runrobot) | [原始项目](https://github.com/channingbreeze/games/tree/master/runrobot) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
+| Plane war | [项目地址](https://github.com/tomcomtang/rhythm) | [原始项目](https://github.com/channingbreeze/games/tree/master/rhythm) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
 | Plane war | [项目地址](https://github.com/tomcomtang/circle-the-cat) | [原始项目](https://github.com/channingbreeze/games/tree/master/circle-the-cat) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
-| Plane war | [项目地址](https://github.com/tomcomtang/bike) | [原始项目](https://github.com/channingbreeze/games/tree/master/bike) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
-| Plane war | [项目地址](https://github.com/tomcomtang/kupao) | [原始项目](https://github.com/channingbreeze/games/tree/master/kupao) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
-| Plane war | [项目地址](https://github.com/tomcomtang/candy) | [原始项目](https://github.com/channingbreeze/games/tree/master/candy) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
-| Plane war | [项目地址](https://github.com/tomcomtang/hexgl) | [原始项目](https://github.com/channingbreeze/games/tree/master/hexgl) | [一键部署试](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| Plane war | [项目地址](https://github.com/tomcomtang/bike) | [原始项目](https://github.com/channingbreeze/games/tree/master/bike) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
+| Plane war | [项目地址](https://github.com/tomcomtang/kupao) | [原始项目](https://github.com/channingbreeze/games/tree/master/kupao) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
+| Plane war | [项目地址](https://github.com/tomcomtang/candy) | [原始项目](https://github.com/channingbreeze/games/tree/master/candy) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
+| Plane war | [项目地址](https://github.com/tomcomtang/hexgl) | [原始项目](https://github.com/channingbreeze/games/tree/master/hexgl) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
 
 ## 快速开始
 
