@@ -23,7 +23,7 @@ Simply click the "Deploy" button to quickly deploy your favorite game to your ow
 
 | Game Name | Project Address | Original Project | One-Click Deploy |
 |-----------|----------------|------------------|-----------------|
-| p2ball | [Project](https://github.com/tomcomtang/p2ball) | [Original](https://github.com/channingbreeze/games/tree/master/p2ball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball&source=tomchild) |
+| P2ball | [Project](https://github.com/tomcomtang/p2ball) | [Original](https://github.com/channingbreeze/games/tree/master/p2ball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball&source=tomchild) |
 | Plane war | [Project](https://github.com/tomcomtang/planewar) | [Original](https://github.com/channingbreeze/games/tree/master/planewar) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar&source=tomchild) |
 | Attack on ball | [Project](https://github.com/tomcomtang/attackonball) | [Original](https://github.com/channingbreeze/games/tree/master/attackonball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball&source=tomchild) |
 | Pet party | [Project](https://github.com/tomcomtang/petparty) | [Original](https://github.com/channingbreeze/games/tree/master/petparty) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty&source=tomchild) |
