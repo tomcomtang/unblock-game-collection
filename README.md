@@ -1,56 +1,56 @@
 # H5 Game Collection
 
-这是一个精心整理的H5小游戏集合项目，支持一键部署到个人域名站点。通过简单的配置，您可以在自己的网站上轻松运行多款有趣的H5游戏。
+This is a carefully curated collection of H5 games that supports one-click deployment to personal domain sites. With simple configuration, you can easily run multiple interesting H5 games on your own website.
 
-## 项目特点
+## Features
 
-- 🎮 精选优质H5小游戏
-- 🚀 一键部署功能
-- 🔗 支持自定义域名
-- 📱 移动端友好
-- 🛠️ 简单易用的部署流程
+- 🎮 Curated high-quality H5 games
+- 🚀 One-click deployment
+- 🔗 Custom domain support
+- 📱 Mobile-friendly
+- 🛠️ Simple deployment process
 
-## 游戏列表
+## Game List
 
-每个游戏项目包含以下信息：
-- 一键部署按钮
-- 项目地址
-- 原始项目地址
+Each game project includes the following information:
+- One-click deployment button
+- Project address
+- Original project address
 
-### 游戏列表
+### Game List
 
-| 游戏名称 | 项目地址 | 原始项目地址 | 一键部署 |
-|---------|---------|------------|---------|
-| p2ball | [项目地址](https://github.com/tomcomtang/p2ball) | [原始项目](https://github.com/channingbreeze/games/tree/master/p2ball) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball) |
-| Plane war | [项目地址](https://github.com/tomcomtang/planewar) | [原始项目](https://github.com/channingbreeze/games/tree/master/planewar) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar) |
-| Attack on ball | [项目地址](https://github.com/tomcomtang/attackonball) | [原始项目](https://github.com/channingbreeze/games/tree/master/attackonball) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball) |
-| Pet party | [项目地址](https://github.com/tomcomtang/petparty) | [原始项目](https://github.com/channingbreeze/games/tree/master/petparty) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty) |
-| Flappy bird | [项目地址](https://github.com/tomcomtang/flappybird3) | [原始项目](https://github.com/channingbreeze/games/tree/master/flappybird3) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/flappybird3) |
-| Jump one | [项目地址](https://github.com/tomcomtang/jumpone) | [原始项目](https://github.com/channingbreeze/games/tree/master/jumpone) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
-| Run robot | [项目地址](https://github.com/tomcomtang/runrobot) | [原始项目](https://github.com/channingbreeze/games/tree/master/runrobot) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
-| Rhythm | [项目地址](https://github.com/tomcomtang/rhythm) | [原始项目](https://github.com/channingbreeze/games/tree/master/rhythm) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
-| Circle the cat | [项目地址](https://github.com/tomcomtang/circle-the-cat) | [原始项目](https://github.com/channingbreeze/games/tree/master/circle-the-cat) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
-| Bike | [项目地址](https://github.com/tomcomtang/bike) | [原始项目](https://github.com/channingbreeze/games/tree/master/bike) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
-| Kupao | [项目地址](https://github.com/tomcomtang/kupao) | [原始项目](https://github.com/channingbreeze/games/tree/master/kupao) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
-| Candy | [项目地址](https://github.com/tomcomtang/candy) | [原始项目](https://github.com/channingbreeze/games/tree/master/candy) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
-| Hexgl | [项目地址](https://github.com/tomcomtang/hexgl) | [原始项目](https://github.com/channingbreeze/games/tree/master/hexgl) | [一键部署试玩](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
+| Game Name | Project Address | Original Project | One-Click Deploy |
+|-----------|----------------|------------------|-----------------|
+| p2ball | [Project](https://github.com/tomcomtang/p2ball) | [Original](https://github.com/channingbreeze/games/tree/master/p2ball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/p2ball) |
+| Plane war | [Project](https://github.com/tomcomtang/planewar) | [Original](https://github.com/channingbreeze/games/tree/master/planewar) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/planewar) |
+| Attack on ball | [Project](https://github.com/tomcomtang/attackonball) | [Original](https://github.com/channingbreeze/games/tree/master/attackonball) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/attackonball) |
+| Pet party | [Project](https://github.com/tomcomtang/petparty) | [Original](https://github.com/channingbreeze/games/tree/master/petparty) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/petparty) |
+| Flappy bird | [Project](https://github.com/tomcomtang/flappybird3) | [Original](https://github.com/channingbreeze/games/tree/master/flappybird3) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/flappybird3) |
+| Jump one | [Project](https://github.com/tomcomtang/jumpone) | [Original](https://github.com/channingbreeze/games/tree/master/jumpone) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/jumpone) |
+| Run robot | [Project](https://github.com/tomcomtang/runrobot) | [Original](https://github.com/channingbreeze/games/tree/master/runrobot) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot) |
+| Rhythm | [Project](https://github.com/tomcomtang/rhythm) | [Original](https://github.com/channingbreeze/games/tree/master/rhythm) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/rhythm) |
+| Circle the cat | [Project](https://github.com/tomcomtang/circle-the-cat) | [Original](https://github.com/channingbreeze/games/tree/master/circle-the-cat) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/circle-the-cat) |
+| Bike | [Project](https://github.com/tomcomtang/bike) | [Original](https://github.com/channingbreeze/games/tree/master/bike) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/bike) |
+| Kupao | [Project](https://github.com/tomcomtang/kupao) | [Original](https://github.com/channingbreeze/games/tree/master/kupao) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/kupao) |
+| Candy | [Project](https://github.com/tomcomtang/candy) | [Original](https://github.com/channingbreeze/games/tree/master/candy) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/candy) |
+| Hexgl | [Project](https://github.com/tomcomtang/hexgl) | [Original](https://github.com/channingbreeze/games/tree/master/hexgl) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) |
 
-## 快速开始
+## Quick Start
 
-1. 选择您喜欢的游戏
-2. 点击"一键部署"按钮
-3. 按照部署向导完成配置
-4. 开始享受游戏！
+1. Choose your favorite game
+2. Click the "Deploy" button
+3. Follow the deployment wizard to complete the configuration
+4. Start enjoying the game!
 
-## 版权声明
+## Copyright Notice
 
-本项目收集的游戏均来自开源社区，仅供个人学习和使用。如果您计划将游戏用于商业用途，请务必查看并遵守原项目的版权协议。每个游戏的具体许可证信息请参考其原始项目地址。
+The games collected in this project are from the open-source community and are for personal learning and use only. If you plan to use the games for commercial purposes, please check and comply with the original project's license agreement. For specific license information of each game, please refer to its original project address.
 
-如果您喜欢列表中的游戏，请给原项目地址贡献一个star，这是对开源作者最好的支持！
+If you enjoy any of the games in the list, please give a star to the original project address - it's the best way to support open-source authors!
 
-## 贡献指南
+## Contributing
 
-欢迎提交新的游戏项目或改进建议！请确保您提交的游戏项目：
-- 拥有合适的开源许可证
-- 代码质量良好
-- 运行稳定
+Contributions of new game projects or improvements are welcome! Please ensure that your submitted game projects:
+- Have appropriate open-source licenses
+- Maintain good code quality
+- Run stably
