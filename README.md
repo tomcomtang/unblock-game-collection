@@ -39,7 +39,7 @@ Simply click the "Deploy" button to quickly deploy your favorite game to your ow
 | Super Mario | -- | [Original](https://github.com/pratishshr/mario-maker) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/pratishshr/mario-maker) | 🖥️ PC |
 | Space Huggers | -- | [Original](https://github.com/killedbyapixel/spacehuggers) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/killedbyapixel/spacehuggers) | 🖥️ PC |
 | Hexgl | -- | [Original](https://github.com/js13kgames/bounce-back) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/hexgl) | 🖥️ PC |
-| Block Blast | -- | [Original](https://github.com/futzumi/block-blast) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/futzumi/block-blast) | 🖥️ PC |
+| Block Blast | -- | [Original](https://github.com/futzumi/block-blast) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/futzumi/block-blast) | 📱 Mobile |
 | Sokoban | -- | [Original](https://github.com/alliballibaba/sokoban-level-generator) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/alliballibaba/sokoban-level-generator) | 🖥️ PC |
 | 2048 | -- | [Original](https://github.com/gabrielecirulli/2048) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/gabrielecirulli/2048&project-name=game-2048) | 📱 Mobile |
 | Black Hole Square | -- | [Original](https://github.com/quinten/black-hole-square) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/quinten/black-hole-square&output-directory=./public&build-command=npm%20install) | 🖥️ PC |
