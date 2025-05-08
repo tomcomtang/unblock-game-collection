@@ -46,9 +46,9 @@ Simply click the "Deploy" button to quickly deploy your favorite game to your ow
 | Snake | -- | [Original](https://github.com/rabiroshan/snake_game) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/rabiroshan/snake_game&output-directory=./docs&project-name=snake-game) |
 | Fake Racer | -- | [Original](https://github.com/johnatas-henrique/fake-racer) | [Deploy](https://edgeone.ai/pages/new?template=https://github.com/johnatas-henrique/fake-racer&build-command=npm%20install) |
 
-For more unblocked games, check out our [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
+For more unblocked games, check out the [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
-Looking for website templates? Explore our [template gallery](https://edgeone.ai/pages/templates?source=tomchild) for various website templates!
+Looking for website templates? Visit the [template gallery](https://edgeone.ai/pages/templates?source=tomchild) for various website templates!
 
 ## Quick Start
 
