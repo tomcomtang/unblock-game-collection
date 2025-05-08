@@ -1,6 +1,6 @@
 # H5 Game Collection
 
-This is a carefully curated collection of H5 games that supports one-click deployment to personal domain sites. Through this simple deployment process, you can create your own game pages and enjoy unblocked gaming experience without any dependencies.
+This is a carefully curated collection of open-source H5 games from GitHub that supports one-click deployment to personal domain sites. Due to the large number of games in the collection, we haven't generated preview links for each game. However, each game in the list below has a "Deploy" button that links to [Edgeone Pages](https://edgeone.ai/products/pages). To ensure reliable access for all users, especially students, we chose Edgeone Pages over Vercel as a precautionary measure against potential domain blocking issues. Through this simple deployment process, you can create your own game pages and enjoy unblocked gaming experience without any dependencies.
 
 ## Features
 
@@ -16,8 +16,6 @@ Each game project includes the following information:
 - One-click deployment button
 - Project address
 - Original project address
-
-Simply click the "Deploy" button to quickly deploy your favorite game to your own domain.
 
 ### Game List
 
