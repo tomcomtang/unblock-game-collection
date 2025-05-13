@@ -1,14 +1,40 @@
 # H5 Game Collection
 
-This is a carefully curated collection of open-source H5 games from GitHub that supports one-click deployment to personal domain sites. Due to the large number of games in the collection, we haven't generated preview links for each game. However, each game in the list below has a "Deploy" button that links to [Edgeone Pages](https://edgeone.ai/products/pages). To ensure reliable access for all users, especially students, we chose Edgeone Pages over Vercel as a precautionary measure against potential domain blocking issues. Through this simple deployment process, you can create your own game pages and enjoy unblocked gaming experience without any dependencies.
+This is a carefully curated collection of open-source H5 games from GitHub that can be easily deployed to your personal domain. With just 5 minutes and simple steps, you can create your own private game page with a custom domain. The deployment process is straightforward and completely free, ensuring reliable access for all users, especially students. By hosting games on your personal domain, you can enjoy an unblocked gaming experience with enhanced privacy and security.
 
 ## Features
 
 - 🎮 Curated high-quality H5 games
-- 🚀 One-click deployment
-- 🔗 Custom domain support
+- ⏱️ Quick 5-minute deployment
+- 🔒 Enhanced privacy with personal domain
 - 📱 Mobile-friendly
-- 🛠️ Simple deployment process
+- 🛠️ Simple step-by-step process
+- 🆓 Completely free to use
+
+## Quick Start
+
+1. Choose your favorite game
+2. Click the "Deploy" button in the Game List table below
+3. If you are using Google Chrome and have a Google account, simply click "Sign in with Google" to log in with your Google email
+   ![Login Screen](https://i.pinimg.com/736x/97/63/85/9763856f6911b11fc7cde045d1165d9f.jpg)
+4. After clicking login, wait for the automatic redirect. If you are a new user, you may see a welcome screen - just wait for the countdown to finish and it will automatically redirect
+   ![Welcome Screen](https://i.pinimg.com/736x/29/21/7c/29217c0abf64f420eca5a3935a0a45c9.jpg)
+5. You will then see an account details input screen - simply click "Next time" to skip this step
+   ![Account Details](https://i.pinimg.com/736x/c6/53/e1/c653e193d1ca4c1a1fd0c34a304cd5b5.jpg)
+6. Next, you'll see a GitHub integration screen. If you already have a GitHub account, please log in to GitHub and click "github" to link it
+   ![GitHub Integration](https://i.pinimg.com/736x/47/42/6d/47426de92aada699773055a6932cb564.jpg)
+7. After clicking github, you'll see a GitHub integration interface - simply click "install" to proceed
+   ![GitHub Install](https://i.pinimg.com/736x/31/88/fd/3188fdc18a30409bb235f5601054ab89.jpg)
+8. After linking your GitHub account, you'll see a visibility settings screen. Here you can choose between "private" (only you can access the deployed game) or "public" (everyone can access the deployed game). Make your choice and click the "create" button to start the deployment
+   ![Visibility Settings](https://i.pinimg.com/736x/8f/e0/5f/8fe05f148dc399f32727e30facfd914e.jpg)
+9. After clicking "create", you'll see a deployment waiting screen - just wait for the deployment to complete
+   ![Deployment Waiting](https://i.pinimg.com/736x/5c/8e/0a/5c8e0a44ad6f5195655718dd46cb40b4.jpg)
+10. Once deployment is complete, you'll see a congratulatory message. Click the link indicated by the arrow to start playing the game!
+    ![Deployment Complete](https://i.pinimg.com/736x/56/f1/c8/56f1c854a5f1623d2c901bc178109c73.jpg)
+11. Now you can play the H5 game on your own domain!
+    ![Game Playing](https://i.pinimg.com/736x/b2/c7/ef/b2c7ef348118e4e65ad84ba09e45f5c0.jpg)
+
+All deployments are completely free - no registration or payment required!
 
 ## Game List
 
@@ -47,29 +73,6 @@ Each game project includes the following information:
 For more unblocked games, check out the [complete game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild)!
 
 Looking for website templates? Visit the [template gallery](https://edgeone.ai/pages/templates?source_entry=tomchild) for various website templates!
-
-## Quick Start
-
-1. Choose your favorite game
-2. Click the "Deploy" button
-3. If you are using Google Chrome and have a Google account, simply click "Sign in with Google" to log in with your Google email
-   ![Login Screen](https://i.pinimg.com/736x/97/63/85/9763856f6911b11fc7cde045d1165d9f.jpg)
-4. After clicking login, wait for the automatic redirect. If you are a new user, you may see a welcome screen - just wait for the countdown to finish and it will automatically redirect
-   ![Welcome Screen](https://i.pinimg.com/736x/29/21/7c/29217c0abf64f420eca5a3935a0a45c9.jpg)
-5. You will then see an account details input screen - simply click "Next time" to skip this step
-   ![Account Details](https://i.pinimg.com/736x/c6/53/e1/c653e193d1ca4c1a1fd0c34a304cd5b5.jpg)
-6. Next, you'll see a GitHub integration screen. If you already have a GitHub account, please log in to GitHub and click "github" to link it
-   ![GitHub Integration](https://i.pinimg.com/736x/47/42/6d/47426de92aada699773055a6932cb564.jpg)
-7. After clicking github, you'll see a GitHub integration interface - simply click "install" to proceed
-   ![GitHub Install](https://i.pinimg.com/736x/31/88/fd/3188fdc18a30409bb235f5601054ab89.jpg)
-8. After linking your GitHub account, you'll see a visibility settings screen. Here you can choose between "private" (only you can access the deployed game) or "public" (everyone can access the deployed game). Make your choice and click the "create" button to start the deployment
-   ![Visibility Settings](https://i.pinimg.com/736x/8f/e0/5f/8fe05f148dc399f32727e30facfd914e.jpg)
-9. After clicking "create", you'll see a deployment waiting screen - just wait for the deployment to complete
-   ![Deployment Waiting](https://i.pinimg.com/736x/5c/8e/0a/5c8e0a44ad6f5195655718dd46cb40b4.jpg)
-10. Once deployment is complete, you'll see a congratulatory message. Click the link indicated by the arrow to start playing the game!
-    ![Deployment Complete](https://i.pinimg.com/736x/56/f1/c8/56f1c854a5f1623d2c901bc178109c73.jpg)
-
-All deployments are completely free - no registration or payment required!
 
 ## Copyright Notice
 
