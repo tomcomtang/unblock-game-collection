@@ -1,6 +1,6 @@
 # H5 Game Collection
 
-This is a carefully curated collection of open-source H5 games from GitHub that can be easily deployed to your personal domain. With just 5 minutes and simple steps, you can create your own private game page with a custom domain. The deployment process is straightforward and completely free, ensuring reliable access for all users, especially students. By hosting games on your personal domain, you can enjoy an unblocked gaming experience with enhanced privacy and security.
+This is a collection of open-source H5 games from GitHub that can be deployed to personal domains. As a student who understands the need for accessible educational games, I've compiled these games to help fellow students who are looking for unblocked gaming options. The deployment process takes about 5 minutes with straightforward steps, and you can create your own private game page with a custom domain. This approach ensures reliable access while maintaining privacy, making it suitable for educational environments.
 
 ## Features
 
