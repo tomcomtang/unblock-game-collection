@@ -15,7 +15,7 @@ This is a collection of open-source H5 games from GitHub that can be deployed to
 
 The deployment process requires a simple registration, but it's quick and straightforward. All deployments are completely free - no payment required!
 
-1. Choose your favorite game
+1. Choose your favorite game from the [Game List](#game-list) below
 2. Click the "Deploy" button in the Game List table below
 3. If you are using Google Chrome and have a Google account, simply click "Sign in with Google" to log in with your Google email
    ![Login Screen](https://i.pinimg.com/736x/97/63/85/9763856f6911b11fc7cde045d1165d9f.jpg)
