@@ -31,7 +31,7 @@ The deployment process requires a simple registration, but it's quick and straig
    ![Visibility Settings](https://i.pinimg.com/736x/8f/e0/5f/8fe05f148dc399f32727e30facfd914e.jpg)
 9. After clicking "create", you'll see a deployment waiting screen - just wait for the deployment to complete
    ![Deployment Waiting](https://i.pinimg.com/736x/5c/8e/0a/5c8e0a44ad6f5195655718dd46cb40b4.jpg)
-10. Once deployment is complete, you'll see a congratulatory message. Click the link indicated by the arrow to start playing the game!
+10. Once deployment is complete, you'll see a congratulatory message. Click the link indicated by the arrow to start playing the game! The link will take you to your own unique custom domain, which is private to you. Since this is your personal domain, as long as you don't share it publicly, you can avoid any blocking risks.
     ![Deployment Complete](https://i.pinimg.com/736x/56/f1/c8/56f1c854a5f1623d2c901bc178109c73.jpg)
 11. Now you can play the H5 game on your own domain!
     ![Game Playing](https://i.pinimg.com/736x/b2/c7/ef/b2c7ef348118e4e65ad84ba09e45f5c0.jpg)
