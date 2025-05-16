@@ -1,6 +1,6 @@
 # H5 Game Collection
 
-This is a collection of open-source H5 games from GitHub that can be deployed to personal domains. As a student who understands the need for accessible educational games, I've compiled these games to help fellow students who are looking for unblocked gaming options. The deployment process takes about 5 minutes with straightforward steps, and you can create your own private game page with a custom domain. This approach ensures reliable access while maintaining privacy, making it suitable for educational environments.
+This is a collection of open-source H5 games from GitHub that can be deployed to personal domains. I've compiled these games to help those who are looking for unblocked gaming options. With one-click deployment, you can create your own private game page with a custom domain. This approach ensures reliable access while maintaining privacy, making it suitable for educational environments.
 
 ## Features
 
@@ -13,7 +13,11 @@ This is a collection of open-source H5 games from GitHub that can be deployed to
 ## Deployment Options
 
 ### Quick Access (Recommended for Beginners)
-If you're new to programming or prefer a simpler approach, you can directly visit our [pre-built game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild) to preview and deploy games with just one click. This is the easiest way to get started!
+If you're new to programming or prefer a simpler approach, you can visit the [pre-built game collection](https://edgeone.ai/pages/games-unblocked?source=tomchild). This page provides two options:
+- Direct access to already deployed games
+- One-click deployment buttons for instant access
+
+This is the easiest way to get started without any technical knowledge!
 
 ### Self-Deployment (For Learning)
 If you want to learn how to deploy games yourself and gain the ability to deploy other GitHub open-source games, you can follow the deployment guide below. This knowledge will help you understand the deployment process and enable you to deploy any GitHub game project in the future.
