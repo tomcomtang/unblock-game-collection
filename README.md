@@ -1,6 +1,6 @@
 # H5 Game Collection
 
-This is a collection of open-source H5 games from GitHub that can be deployed to personal domains. I've compiled these games to help those who are looking for unblocked gaming options. With one-click deployment, you can create your own private game page with a custom domain. This approach ensures reliable access while maintaining privacy, making it suitable for educational environments.
+As a student who understands the frustration of having gaming websites blocked, I've created this collection to help fellow students who are looking for unblocked gaming options. This is a collection of open-source H5 games from GitHub that can be deployed to personal domains. With one-click deployment, you can create your own private game page with a custom domain. This approach ensures reliable access while maintaining privacy, making it suitable for educational environments.
 
 ## Features
 
@@ -20,18 +20,16 @@ If you're new to programming or prefer a simpler approach, you can visit the [pr
 This is the easiest way to get started without any technical knowledge!
 
 ### Self-Deployment (For Learning)
-If you want to learn how to deploy games yourself and gain the ability to deploy other GitHub open-source games, you can follow the deployment guide below. This knowledge will help you understand the deployment process and enable you to deploy any GitHub game project in the future.
+If you want to learn how to deploy games yourself and gain the ability to deploy other GitHub open-source games, follow the deployment guide below. This knowledge will enable you to deploy any GitHub game project in the future.
 
 [👉 Click here to view the deployment guide](#quick-start)
 
 ## Game List
 
-Each game project includes the following information:
+Each game project includes:
 - One-click deployment button
 - Project address
 - Original project address
-
-### Game List
 
 | Game Name | Project Address | Original Project | One-Click Deploy | Platform |
 |-----------|----------------|------------------|-----------------|----------|
@@ -63,8 +61,6 @@ For more unblocked games, check out the [complete game collection](https://edgeo
 Looking for website templates? Visit the [template gallery](https://edgeone.ai/pages/templates?source_entry=tomchild) for various website templates!
 
 ## Quick Start
-
-To help those who might encounter difficulties during deployment, I've provided detailed step-by-step screenshots. The deployment process is actually quite simple and only requires a basic registration. All deployments are completely free - no payment required!
 
 ### Understanding the Deployment URL
 The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=GITHUB_REPO_URL&source=tomchild`
