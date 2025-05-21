@@ -63,7 +63,7 @@ Looking for website templates? Visit the [template gallery](https://edgeone.ai/p
 ## Quick Start
 
 ### Understanding the Deployment URL
-The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=GITHUB_REPO_URL&source=tomchild`
+The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot&source=tomchild`
 - `template`: This parameter should be the GitHub repository URL of the game you want to deploy
 - `source`: This is a tracking parameter (you can keep it as is)
 
