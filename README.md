@@ -69,20 +69,24 @@ If you're not familiar with programming or GitHub, you can follow this simple gu
 1. Choose a game from the [Game List](#game-list) above
 2. Click on the "Project" link to go to the game's GitHub page
 3. Click the green "Code" button and select "Download ZIP"
-   ![Download ZIP](https://i.pinimg.com/736x/85/b1/d6/85b1d6a8f00c1844eaa29d91f5842ac2.jpg)
+
+![Download ZIP](https://i.pinimg.com/736x/85/b1/d6/85b1d6a8f00c1844eaa29d91f5842ac2.jpg)
 
 #### Step 2: Access Deployment Page
 1. Visit [EdgeOne.ai Manage Page](https://edgeone.ai/pages/manage)
 2. Click the "Upload Files" button
-   ![Upload Button](https://i.pinimg.com/736x/22/4d/3c/224d3c758e357144830ce9400b9c527d.jpg)
+
+![Upload Button](https://i.pinimg.com/736x/22/4d/3c/224d3c758e357144830ce9400b9c527d.jpg)
 
 #### Step 3: Upload and Deploy
 1. Upload the ZIP file you downloaded in Step 1
 2. Click "Start Deployment"
-   ![Upload and Deploy](https://i.pinimg.com/736x/54/e9/f1/54e9f1f400d246f25f7bc693223f1892.jpg)
+
+![Upload and Deploy](https://i.pinimg.com/736x/54/e9/f1/54e9f1f400d246f25f7bc693223f1892.jpg)
 
 #### Step 4: Wait for Deployment
 Just wait a moment while your game is being deployed
+
 ![Deployment Progress](https://i.pinimg.com/736x/c9/69/5c/c9695c1b52a43a19a9764f05941b693a.jpg)
 
 That's it! Once deployment is complete, you can play the game online. This is the simplest and fastest way to deploy GitHub games that I've ever seen!
