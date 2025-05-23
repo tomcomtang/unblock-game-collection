@@ -62,8 +62,36 @@ Looking for website templates? Visit the [template gallery](https://edgeone.ai/p
 
 ## Quick Start
 
-### Understanding the Deployment URL
-The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runrobot&source=tomchild`
+### For Non-Programmers
+If you're not familiar with programming or GitHub, you can follow this simple guide. This is the easiest way to deploy games - no programming knowledge required!
+
+#### Step 1: Download the Game
+1. Choose a game from the [Game List](#game-list) above
+2. Click on the "Project" link to go to the game's GitHub page
+3. Click the green "Code" button and select "Download ZIP"
+   ![Download ZIP](https://i.pinimg.com/736x/85/b1/d6/85b1d6a8f00c1844eaa29d91f5842ac2.jpg)
+
+#### Step 2: Access Deployment Page
+1. Visit [EdgeOne.ai Manage Page](https://edgeone.ai/pages/manage)
+2. Click the "Upload" button
+   ![Upload Button](https://i.pinimg.com/736x/22/4d/3c/224d3c758e357144830ce9400b9c527d.jpg)
+
+#### Step 3: Upload and Deploy
+1. Upload the ZIP file you downloaded in Step 1
+2. Click "Start Deployment"
+   ![Upload and Deploy](https://i.pinimg.com/736x/54/e9/f1/54e9f1f400d246f25f7bc693223f1892.jpg)
+
+#### Step 4: Wait for Deployment
+Just wait a moment while your game is being deployed
+![Deployment Progress](https://i.pinimg.com/736x/c9/69/5c/c9695c1b52a43a19a9764f05941b693a.jpg)
+
+That's it! Once deployment is complete, you can play the game online. This is the simplest and fastest way to deploy GitHub games that I've ever seen!
+
+### For Programmers
+If you're familiar with programming and GitHub, you can use the advanced deployment method below. This method gives you more control and flexibility.
+
+#### Understanding the Deployment URL
+The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=GITHUB_REPO_URL&source=tomchild`
 - `template`: This parameter should be the GitHub repository URL of the game you want to deploy
 - `source`: This is a tracking parameter (you can keep it as is)
 
