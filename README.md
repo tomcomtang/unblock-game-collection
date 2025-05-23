@@ -73,7 +73,7 @@ If you're not familiar with programming or GitHub, you can follow this simple gu
 
 #### Step 2: Access Deployment Page
 1. Visit [EdgeOne.ai Manage Page](https://edgeone.ai/pages/manage)
-2. Click the "Upload" button
+2. Click the "Upload Files" button
    ![Upload Button](https://i.pinimg.com/736x/22/4d/3c/224d3c758e357144830ce9400b9c527d.jpg)
 
 #### Step 3: Upload and Deploy
